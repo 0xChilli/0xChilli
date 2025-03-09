@@ -1,6 +1,13 @@
 # 0xChilli
-- ![old github account](https://github.com/q00r)
 
+<p align="center">
+  <a href="https://github.com/q00r">
+    <img src="https://github.com/q00r.png" alt="Old GitHub Account" width="150" style="border-radius: 50%;">
+  </a>
+</p>
 
-
-[![0xChilli's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xChilli)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=0xChilli" alt="0xChilli's GitHub stats">
+  </a>
+</p>
