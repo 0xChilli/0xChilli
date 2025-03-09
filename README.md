@@ -4,6 +4,8 @@
   <a href="https://github.com/q00r">
     <img src="https://github.com/q00r.png" alt="Old GitHub Account" width="150" style="border-radius: 50%;">
   </a>
+  <br>
+  <strong>Old GitHub Account</strong>
 </p>
 
 <p align="center">
