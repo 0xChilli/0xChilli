@@ -1,11 +1,11 @@
-# 0xChilli
-
 <p align="center">
   <a href="https://github.com/q00r">
     <img src="https://github.com/q00r.png" alt="Old GitHub Account" width="150" style="border-radius: 50%;">
   </a>
   <br>
-  <strong>Old GitHub Account has all my UNI projects and others</strong>
+  <a href="https://github.com/q00r">
+    <strong>Old GitHub Account has all my UNI projects and others</strong>
+  </a>
 </p>
 
 <p align="center">
