@@ -5,7 +5,7 @@
     <img src="https://github.com/q00r.png" alt="Old GitHub Account" width="150" style="border-radius: 50%;">
   </a>
   <br>
-  <strong>Old GitHub Account</strong>
+  <strong>Old GitHub Account has all my UNI projects and others</strong>
 </p>
 
 <p align="center">
